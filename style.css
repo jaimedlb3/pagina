@@ -6,6 +6,7 @@
   font-size: 6rem;
 }
 .links {
+  
   margin-bottom: 0px;
   font-weight: bold;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
@@ -28,3 +29,6 @@
     font-size: 1.5rem;
 }
 
+.espaciado{
+  margin-top: 10rem;
+}
